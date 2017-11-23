@@ -1,6 +1,6 @@
 # blog
 
-## Todo List
+## Todo List（第一个5年学习计划）走的越远，越觉得自己是个傻子，越来越觉得自己什么也不会，越来越觉得离随心所欲相差甚远
 
 - 开发一个 ES Next 项目构建工具。
   - es-webpack create <project name> 创建一个 es-webpack 项目模板
@@ -10,4 +10,34 @@
   
 - webpack 源码分析 深入研究项目构建原理与实践
 
-- react 源码分析 深入学习 React 构建原理，深入研究 web component 实践
+- react 源码分析 深入学习 React diff 原理，深入研究 web component 实践
+
+- babel 源码分析, AST 研究，编译器研究学习
+
+- ecmascript 规范通读
+
+- css 2.2 / css3 规范通读
+
+- Dom api 
+
+- node，v8, chromium 源码研究
+
+- 数据结构与算法（各种树，各种图）
+
+- android / ios 端开发
+
+- 工程化 + 持续集成 + 自动化构建深入实践 
+
+- docker， Kubernetes 学习
+
+- 数据可视化 svg/canvas/webgl 学习
+
+- 数学必知必会，掌握通用原理，定理
+
+- 机器学习（神经网络，AI）初步入门
+
+三个月计划（2017-12~2018-2）
+
+- RN 掌握搬砖技能
+
+- Android 初步掌握开发技能
