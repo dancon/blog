@@ -1,7 +1,5 @@
 # blog
 
-## Todo List（第一个5年学习计划）走的越远，越觉得自己是个傻子，越来越觉得自己什么也不会，越来越觉得离随心所欲相差甚远
-
 - 开发一个 ES Next 项目构建工具。
   - es-webpack create <project name> 创建一个 es-webpack 项目模板
   - es-webapck init 将一个已有项目初始化为 ES Next 的项目
@@ -35,9 +33,5 @@
 - 数学必知必会，掌握通用原理，定理
 
 - 机器学习（神经网络，AI）初步入门
-
-三个月计划
-
-- RN 掌握搬砖技能
 
 - Android 初步掌握开发技能
